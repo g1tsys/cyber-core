@@ -132,7 +132,9 @@ Use VirtualBox/VMware to simulate attacks & defenses.
 Final Tips:
 
 ✅ Hands-on practice is key – Use platforms like TryHackMe, Hack The Box, and VulnHub.
+
 ✅ Networking matters – Engage in cybersecurity communities.
+
 ✅ Stay curious & ethical – Never practice on systems without permission.
 
 Would you like recommendations for specific roles (e.g., SOC Analyst, Pentester)? Let me know! 🚀
