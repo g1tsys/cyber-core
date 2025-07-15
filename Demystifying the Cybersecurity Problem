@@ -75,7 +75,7 @@ Hackers
     - Phisphing
     - Ransomeware 
     - Distributed Denial of Service -
-    - Privilege Esclation
+    - Privilege Escalation
     - Infrastructure
     - Virus
     - Trojan
@@ -83,8 +83,59 @@ Hackers
       (Powershell, Batch Scripting, etc)
     - ICS Attacks 
 Effects 
-    - Diverse methods for remote attack or supply chain compromise mean that large protions of the IT infrastructure supporting criticle elements of our modern society remain at risk
+Diverse methods for remote attack or supply chain compromise mean that large protions of the IT infrastructure supporting criticle elements of our modern society remain at risk
+    - Transportation (SF Muni Attack)
+    - Electrical Grid (Ukraine Power Attack)
+    - Industrial Attacks (German Steel Mill)
 
+Costs can be measured in a variety of ways 
+    - OPM (Entirety of SSBI Database)
+    - Yahoo (3 Billon Logins)
+    - Home Depot (56 millon credit cards)
+    - Ukraine Power Grid (80,000 people without electricity)
+
+Attack Surface 
+
+Business is Global and Complex 
+    - IT networks are scaled and distributed 
+    - Mix of business and personal devices 
+    - Uncertainty around which systems support business functions
+    - Are you defenses optimized to defend from the threats you are facing? 
+
+Attributing Attacks is Difficult
+
+- Attachers try to hide 
+    - Proxy infrastructure 
+    - Cutout identities 
+    - Diffusion of code 
+
+- Law Enforecement and Private Security Play Detective 
+    - Infrastructure 
+    - Roort kits
+    - Malware 
+
+Wide range of targets 
+
+- Should the government provide greater regulatory oversight on specific industry sectors? 
+- Should some companies be compelled to share their netowkr data with the government? 
+
+Wide range of actors
+
+- What type of penalties should we enact for hobbyist, criminals, or nation state actors? 
+- What is the international standard required to attribute an attack to a country? 
+
+Wide range of vectors 
+
+- Should the government be required to disclose technocial vulnerabilities to the private sector? 
+- Should the government promote backdoors into encrypted systems? 
+
+Diverse attack surface 
+- Should companies use cloud infrastructure? 
+- Should governments requier specific companies to understand and vet their suppliers? 
+
+Complex effects 
+- Are all cyber attacks a concern?
+- How do we determine what effects are a private problem versus a public concern? 
 
 
 
