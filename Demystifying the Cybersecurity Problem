@@ -70,6 +70,20 @@ Hackers
 - Probably no Cyber Armageddon, more targeted attacks 
     - "...Several nations -- including Iran and North Korean have undertaken offensive cyber operations against private sector targets to support their economic and foreign policy objectives..."
 
+- Tacktics, Techniques, and Procedures (TTP)
+
+    - Phisphing
+    - Ransomeware 
+    - Distributed Denial of Service -
+    - Privilege Esclation
+    - Infrastructure
+    - Virus
+    - Trojan
+    - Malware-less Attacks
+      (Powershell, Batch Scripting, etc)
+    - ICS Attacks 
+Effects 
+    - Diverse methods for remote attack or supply chain compromise mean that large protions of the IT infrastructure supporting criticle elements of our modern society remain at risk
 
 
 
