@@ -1,6 +1,6 @@
 ### A simple roadmap created by AI to guide me through learning cyber security related content
 
-Learning cybersecrurity effectively requires a structrure approach, combing foundational knowledge hands-on practice, and continuouslearning. Below is a step-by-step roadmap to guide you from beginner to advanced levels.
+Learning cybersecrurity effectively requires a structrure approach, combing foundational knowledge hands-on practice, and continuous learning. Below is a step-by-step roadmap to guide you from beginner to advanced levels.
 
 
 ## Phase 1: Build a Strong Foundation 
