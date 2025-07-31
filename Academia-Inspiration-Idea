@@ -36,3 +36,35 @@ The Challenge: Building A Prototype
 - Research at several academic instituitions contitues through the mid 60s. In 1966, Lawrence Roberts, moves to Defence Advanced Reserach Projects Agency (DARPA). He decides to fund in 1968, a project that becomes known as the ARPANET. This project has in essence a handful of nodes to demonstrate at a prototype level, a series of interconnected networks, and those nodes are at the universities of UCLA, Standford, UC Santa Barbara and the University of Utah. hese nodes and here's a map of the early network topology of ARPANET in 1969. This project demonstrates that there is a real ability to move packet ties traffic or data from one part of the earth to the next, in this particular case. 
 
 "Internetwork" Concept 
+
+- The internet was absed on the idea that computers could talk to one another by interlinking multiple independent networks together.
+- ARPANET started as the first packet switchin network. Key protocols are developed during this period of time including 
+		- internet protocol (location)
+		- Transmission Control Protocol 
+- These protocols still exist in the internet currently 
+
+Rules of the "Internetwork" 
+
+1. Each distinct network would have to stand on its own
+2. Communications would be on a best effort basis. if a packet did not make it, it would be restransmitted. 
+3. "Black boxes" would be used to connect the networks.
+4. There would be no global control at the operations level 
+
+
+Vision of a Limited Set of Networks 
+
+- By the late 1960s, it was assumed only a handful of networks would exist. 
+- The thought was that only a small number of networks would be connected together ARPANET. 
+- Assumption was that 256 networks would be enough! 
+
+
+A Few Good Applications 
+
+- Only a few applications were available to use in this set of interconnected devices. 
+- To transfer fiels we created the "File Transfer Protocol" (FTP)
+- To allow for remote login we created TELNET.
+- To send messages we developed e-mail. 
+
+New Challenge: Scaling 
+
+Government provided the funding to build that small network to develop a "bench scale" prototype.
