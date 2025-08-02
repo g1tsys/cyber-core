@@ -3,13 +3,11 @@ Questions to Consider
 
 1. How do you expand technology in terms of scale, performanace, nad higher order functionality?
 2. How do we communicate and share ideas about the internet?
-3. How do gorups of people from all over work together to develop this type of technology?
+3. How do groups of people from all over work together to develop this type of technology?
 4. How do you convert theory into the underlying fabric of our modern society? 
 
 
 Origins: A Vision of the Future 
-
-
 1. A vision opn a set of interconnected computers transmitting large volumes of data
 2. A new theory of breaking data up into "packets" that can be moved around 
 3. A prototype network that connected a computer in MA and another in Cali over a telephone line 
@@ -68,3 +66,43 @@ A Few Good Applications
 New Challenge: Scaling 
 
 Government provided the funding to build that small network to develop a "bench scale" prototype.
+
+Private Sector Support and Moving The Internet Out of the Lab 
+
+It works, but now what? 
+
+- By 1969, ARPANET demonstrated that a distributed and digitized network was feasible 
+- Academic vision was supported through government sponsorship to prove out a radiacl new way of commucating 
+- The original vision allowed for only 256 addresses on this "internetwork" 
+
+How did the story of Internetwork become more popular? Expanding Popularity of Networks 
+- With teh success of ARPANET and the progression of new protocols, new often ad hoc netowrks are developed (which means they are built with their own set of instructions and own set of technologies in some cases) 
+- By the earlyl 1970s, a new standardized method for networing is invented. 
+- "Ethernet" is developed at the Xerox Coporation (one of the fundational technology that's still used today) 
+
+Combing Technologies 
+- Standardized networking technologies are developed 
+- Moving computer terminals into business environments 
+- Early developedment of perosnal computers towards the end of the 1970s (Apple I) 
+
+Explosion of Networks and Computers 
+
+- A way to convert Internet Protocol Addresses (e.g. 8.8.8.8) into human friendly names (e.g. Google)
+- We needed a set of instructions that could allow the translation between arcane addresses like .8 to be turned into names like google that gives rise to the emergence of DNS or Domain Name System. 
+- A need to route between devices and networks, so "routers" are developed. 
+
+Scaling Technologies Enables Communications 
+
+- New scaling technologies enable new communities of interest to develop. 
+- Networks are built around specific purposes
+- Department of Energy and NASA 
+- By the early 1980s the military begins using the technology more widely 
+
+Community Ownership 
+
+- Public availability of the documents specifying the protocols
+- Leads to accelerating growth and adoption of new technologies 
+- 
+
+
+
