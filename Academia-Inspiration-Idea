@@ -11,7 +11,7 @@ Origins: A Vision of the Future
 2. A new theory of breaking data up into "packets" that can be moved around 
 3. A prototype network that connected a computer in MA and another in Cali over a telephone line 
 
-- The late 9150s through the early 1960s we have a vision of modern digital netowrked communications
+- The late 9150s through the early 1960s we have a vision of modern digital networked communications
 - Networked devices, packetized communciations, and a prototype wide area network 
 - Why is this not the end of the story? 
 - Once a future is envisioned you probably want to try to build a small model
@@ -58,7 +58,7 @@ Vision of a Limited Set of Networks
 A Few Good Applications 
 
 - Only a few applications were available to use in this set of interconnected devices. 
-- To transfer fiels we created the "File Transfer Protocol" (FTP)
+- To transfer files we created the "File Transfer Protocol" (FTP)
 - To allow for remote login we created TELNET.
 - To send messages we developed e-mail. 
 
