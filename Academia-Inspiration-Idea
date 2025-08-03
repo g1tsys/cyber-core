@@ -22,7 +22,7 @@ Where is the best place to find that?
 
 - Government 
 - Private Sector 
-- Different Insentives 
+- Different Incentives 
 
 This section talks about the fundamental questions that could be answered in terms of how we could achieve the prototyping of a particular project. 
 In the next part, we are going to talk about how we move from a good idea to the implementation of it, and the role in which the government plays. 
@@ -102,7 +102,49 @@ Community Ownership
 
 - Public availability of the documents specifying the protocols
 - Leads to accelerating growth and adoption of new technologies 
-- 
+- Created a positive feedback loop leading to growth in quality and the number of standards 
+- Today there are dozens of working groups focused on a range of internet enabled technologies 
+
+
+Take Away 
+
+- Private sector development of scaling technologies help drive growth 
+- Communitiy development of standards accelerates adoption 
+- By the early 1980s, multiple puerpose drive networks are connected together
+- Next section, it's going to be about the transition of the projects from DARPA funded to privately owned. 
+
+How do we manage this thing? 
+
+- By the early 1980s, "internetworking" has become more popular
+- Several purpose-built networks now exist 
+- A variety of protocols are utilitzed to commincate creating challenges for broad adoption 
+- ARPANET at the heart of the interconnection between these networks 
+
+The Birth of The Internet
+- By 1983, ARPAMNET is still the central "connective tissue" between all the individual networks. 
+- The goal is now to allow networks to independently communicate with one another
+- Previous work on Internet Protocol (IP) and Transmission Control Protocol (TCP) is adopted universwally in 1984.
+- This is the birth of the modern "Internet" 
+
+Incentives to Scale the Internet 
+
+- Moving the US government out of a central networking position in 1983 is couple with incentivizing the private sector 
+- National Science Foundation (NSF) builds high speed connections between research groups, but prohibits private sector use. 
+- Encourages private companies to seek customers for new services 
+- Leads to investment and construction of private sector long haul comminucations (1st Internet Boom) 
+
+Governmen Research Support 
+
+- Supercomputer Network Study Act of 1986
+- Act Allocated $600 million for high performance computing 
+- Accelerate the development and deplotment of high-speed networking 
+- National Center for Supercomputing Applications at the University of Illinois where a team of programmers, including Netscape founder Marc Andreessen created the Moaic web browser. 
+
+Take Away
+
+- Adoption of TCP/IP as the internetwokring standard marks the brith of the modern internet. 
+- Incentives for the private sector to build its own networks helps expand capacity of the Internet. 
+- Governement support of high-speed networking and advanced research set us up for the next big revolution, the world wode web. 
 
 
 
