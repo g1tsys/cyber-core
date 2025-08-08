@@ -30,7 +30,7 @@ OSI Model
 OSI Model: Instructions for Each Layer
 
 DATA 		APPLIATION 		7
-DATA 		PRESENTATION 	6
+DATA 		PRESENTATION 		6
 DATA 		SESSION 			5
 TCP+UDP 	Transport			4
 Packets 	Network 			3
