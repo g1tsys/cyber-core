@@ -32,9 +32,9 @@ OSI Model: Instructions for Each Layer
 DATA 		APPLIATION 		7
 DATA 		PRESENTATION 	6
 DATA 		SESSION 			5
-TCP+UDP Transport			4
-Packets Network 			3
-Frames	Data Link			2
+TCP+UDP 	Transport			4
+Packets 	Network 			3
+Frames		Data Link			2
 Bits		Physical 			1
 
 Encapsulated Instructions Moved Around the World 
