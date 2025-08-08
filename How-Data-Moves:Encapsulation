@@ -1,0 +1,63 @@
+How Data Actually Moves 
+
+- The Internet allows for a broad set of independent network to communicate with one another 
+- The World Wide Web represents a rich set of content, linked together, with an easy to access user interface 
+- How does data move from one point of the earth to another?
+
+The Concept of Encapsulation 
+
+- The ability for devices to communicate with one another requires a variety of instructions 
+- Some relate to the applications you are using, others to the routing instructions of where to send data, still others on the physical medium used to transmit 
+- We bundle those instructions together using the concept encapsulation
+
+Application Instructions
+|
+v
+Routing Instructions
+|
+v 
+Physical Medium Instructions 
+
+From top to down represents the order of encapsulation 
+
+OSI Model
+
+- Open Systems Interconnection (OSI) Model 
+- A way to think about the communications functions independent of the technology or structure 
+- Multiple "layers"
+- Layers from the "stack"
+
+OSI Model: Instructions for Each Layer
+
+DATA 		APPLIATION 		7
+DATA 		PRESENTATION 	6
+DATA 		SESSION 			5
+TCP+UDP Transport			4
+Packets Network 			3
+Frames	Data Link			2
+Bits		Physical 			1
+
+Encapsulated Instructions Moved Around the World 
+
+Encapsulation is Fundamental 
+
+- Encapsulation includes data from the applications you are using 
+- Instructions for the recipient's application as well as all of the infrastructure 
+- The data, packets, frames, and bits fly around globally interconnected networks 
+- Laptops, phones, critical infrastructure, cars, and other devices use the Internet to send and receive information
+
+Cybersecurity 
+
+- Hackers can leverage weaknesses at different layers in the stack to steal or disrupt 
+- Understanding how data is packaged, routed, and trasmitted is fundamental to understanding the range of threats
+- Complexity in technical systems and the human processes they support is at the heart of cybersecurity 
+
+Take Away
+
+- Information must be trasmitted from different points of the earth 
+- Instructions for data to be packaged, routed, and transmitted is done through a process called encapsulation 
+- The OSI Model is a conceptual approach for understanding the layers in the "stack"
+- Potential weaknesses in each layer are exploited by hackers to steal informatinon or disrupt organizational sevices 
+
+
+		
