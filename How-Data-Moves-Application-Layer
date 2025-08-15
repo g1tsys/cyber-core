@@ -1,0 +1,50 @@
+When We Use An Application 
+
+- Application we use will have their data packaged and taggde with instructions 
+- Those instructions are interpreted by the recipient's application and eventually displayed 
+- The application layer acts as an interface between your computer and the programs on it and the netowrk you want to communicate on 
+- Lots and lots of instructions at the application layer
+
+
+Different Types of Application Protocols 
+
+- File Transfer 
+- Application Protocols
+- Network Management 
+- Domain Name Management 
+- Browser 
+
+
+Different Types of Application Protocols 
+
+- Email - File Transfer - Network Management - Remote Logon - Browser
+
+Example: A Website Address
+
+- Using a web browser allows a user to receive or transmit information in a visual manner
+- How does the computer know where to go in order to request information?
+- A computer needs to translate a human friendly term, with something it understands
+
+DNS: The Phonebook of The Internet
+
+- A set of lists that pairs a name like google.com, with a value computer understands
+- The computer retrieves an Internet Protocol (IP) address so humans don't have to memorize it.
+- So to find google.com your computer first needs to find the right telephone book and entry and only then can it be returned the right IP address for google.com
+- Four Components: local DNS server, Root DNS server, TLD DNS server, Authoritative DNS server
+- When you register a domain name, the "name space" is managed by an organization 
+- Internet Corporation for Assigned Names and Numbers (ICANN) 
+- Root Zones are geographically distributed 
+- The locations of the TLD DNS servers are managed by those organizations 
+
+Why does this matter?
+
+- Vulnerabilities exist in several of these protocols 
+- Hackers use those vulnerabilities to gain access or to achieve an effect
+- Software developers who are not careful in the design of their software mgith introduce vectors of attack 
+- Network administrators who leave vulnerabilities in their systems might introduce attack vectors 
+
+Take Away
+
+- Information that translates how programs on a computer must interact with the network in which data will traverse is done at the application layer. 
+- Translating human domain names into computer friendly IP addresses into computer friendly IP addresses is done by the DNS protocol
+
