@@ -1,1 +1,48 @@
+OSI Model: Instruction for Each Layer
 
+
+How does data route across networks?
+
+- I want to move my data from my location to somewhere around the world 
+- Problem: There are a lot of independent networks that change constantly 
+- How do I know where and how to get my informatino across the planet
+- Where am I going? (IP Address) 
+- What local roads should I take? 
+	(Autonomous Systems)
+- How do I know what roads connect to allow me to get closer to my destination?
+	(Peering)
+
+Where am I going? 
+
+- Internet Protocol 
+- Acts as an address on the Internet
+- The Internet Protocol assembles data from the layers above it into a packet with an address header
+- Like an envelope with an address on the outside 
+- Please deliver this information to 8.8.8.8
+
+
+What local roads should I take? 
+
+- Autonomous System (AS)
+- Grouping of IP addresses that make routing information between independent networks easier
+- Might include large networks like AT&T, Sprint, or Verizon 
+- Goal is to have organizations that manage thousands of IP addresses comminucate with one another
+- Autonomous Systems use "Peering Relationships" 
+- AS provide will broadcast a list of other independent networks it has a connection with 
+- So even if your AS doesn't know where 8.8.8.8 is, perhaps one of its neighbors does 
+- The information is forwarded to a neighbor that knows where to send that information 
+
+Why does this matter?
+
+- Vulnerabilities exist in several of these protocols 
+- Hackers use those vulnerabilities to gain access or to achieve an effect
+- Software developers who are not careful in the design of their software might introduce vectors of attack 
+- Network administrators who leave vulnerabilities in their systems might introduce attack vectors 
+
+
+Take Away
+
+- Information that deals with routing is done at the network layer
+- Locations on the Internet are established by Internet Protocol
+- Autonomous Systems are large networks that manage thousands of Internet Protocol addresses 
+- Autonomous Systems maintain peering relationships 
